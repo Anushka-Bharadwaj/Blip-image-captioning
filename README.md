@@ -1,6 +1,6 @@
 # Blip-image-captioning
 A simple and effective Python script using the BLIP model (Salesforce/blip-image-captioning-base) for generating captions for images. The script processes all images in a specified folder and prints their auto-generated descriptions using Hugging Face Transformers and PyTorch.
-Create a file named `README.md` with the following content:
+
 # 🖼️ BLIP Image Captioning
 
 This project demonstrates the use of the [BLIP model](https://huggingface.co/Salesforce/blip-image-captioning-base) from Hugging Face Transformers to generate natural language captions for images.
